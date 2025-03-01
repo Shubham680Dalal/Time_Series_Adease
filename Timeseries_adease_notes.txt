@@ -1,0 +1,30 @@
+Google intellicence(ads) like adease
+
+in Incognito -- everything is still tracked but cant use it to train(wont be tied to your identity)
+Ip-add, browser,Mac-add
+
+Cookie(insta will attach this cookie when you click on one of their posts and then they track your movements across websites and gives ads based on it)
+
+For websites that I have never visited before -- highest Throughtput(highest response/secs) ads
+
+
+
+
+So there a contact between a website and intellisence
+
+1- A website(NyTimes.com) has multiple ad slots 
+2- inside each slot, there is a func (given to this website by intellisence)
+3- argument of func is cookie that google has attached to you
+3- output of func is scaler ads
+4- each of these functions are like contracts
+
+5- now NYTimes can have contract with multiple companies(adease, intellisence,etc)-- whichever contract paying highest -- those ads shown to you
+
+6- cost model for these adease companies
+
+(CPC -- Cost per click -- if scalar ad clicked by 1 user-- scaler will pay $1(0.2 cents to adease and 0.8 cents to Nytimes, Scalar doesn't pay anything(some costs to NYtimes) to Adease if no clicks.. so they have to train their model in such a way)
+(CPT-- Cost per milli -- you pay $1 if you show the ad to 1000 people-that may/maynot have clicked the ad
+CPT works when company cares of advertising like apple titanium -- dont care if people buy)
+
+
+Adease costs will be -- payment to NYTimes.com for showing ads in their platform
